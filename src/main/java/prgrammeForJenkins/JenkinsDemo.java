@@ -3,7 +3,5 @@ package prgrammeForJenkins;
 public class JenkinsDemo {
     public static void main(String[] args) {
         System.out.println ("I am on on intellj");
-         System.out.println("I have been written in the github");
-        
     }
 }
